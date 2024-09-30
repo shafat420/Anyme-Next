@@ -190,7 +190,7 @@ export default function Header() {
           </div>
           <nav className="flex items-center">
             <Link
-              href="https://github.com/RyanYuuki/anyme-next"
+              href="https://github.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
