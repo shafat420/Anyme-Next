@@ -14,7 +14,7 @@ export default function Footer() {
       <div className="container px-4 py-10">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-4">
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold">Anymey</h2>
+            <h2 className="text-2xl font-bold">Animex</h2>
             <p className="text-sm text-muted-foreground">
               Your ultimate destination for anime and manga entertainment.
             </p>
